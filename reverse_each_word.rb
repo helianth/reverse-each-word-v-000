@@ -11,7 +11,7 @@ end
 #   end
 #   reversed.join(" ")
 # end
-# 
+#
 # def reverse_each_word2(sentence)
 #   normal = sentence.split(" ")
 #   normal.collect {|word| word.reverse}
